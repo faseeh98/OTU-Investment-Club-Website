@@ -1,0 +1,74 @@
+#OTUIC_NavLogo {
+    font-family: Dosis;
+}
+
+body {
+   /* padding-top: 55px; */
+}
+
+h1 {
+	font-weight: 600;
+    font-size: 5em;
+    font-family: Dosis;
+}
+
+a {
+    color: white;
+}
+
+#HomePage {
+    background: url(https://images.unsplash.com/photo-1559589689-577aabd1db4f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80) rgba(0,0,0,0.7);
+    background-blend-mode: darken;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+    top: 0; right: 0; bottom:0; left:0;
+    /* font-family: Lato; */
+    color: white; 
+}
+
+#HomepageContent {
+	text-align: center;
+	padding-top: 20%;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4)
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+#AboutUsPage {
+    background: url(https://images.unsplash.com/photo-1423666523292-b458da343f6a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1053&q=80) rgba(0,0,0,0.7);
+    background-blend-mode: darken;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+    /* font-family: Lato; */
+    /* color: white; */
+}
+
+#AboutUsParagraph {
+    text-align: center;
+    padding-top: 10%;
+    font-size: 1.2em;
+    color: white;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0,2)
+}
+
+
+#EventsPage {
+    background: url(https://images.unsplash.com/photo-1559526324-593bc073d938?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80) rgba(0,0,0,0.7);
+    background-blend-mode: darken;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+    /* font-family: Lato; */
+    color: white; 
+}
+
+/* #Home_div {
+    height: 100vh;
+} */
